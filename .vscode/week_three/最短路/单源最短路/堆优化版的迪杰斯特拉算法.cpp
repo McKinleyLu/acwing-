@@ -11,6 +11,10 @@ using namespace std;
 // 也可以使用优先队列，但是不允许修改一个数，
 // 只能插入，从而创造了冗余
 
+
+
+
+
 typedef pair<int ,int> PLL;
 const int N = 1e5+10;
 int n , m ;
